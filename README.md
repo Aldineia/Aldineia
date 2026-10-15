@@ -1,4 +1,6 @@
 # 👩🏻‍💻 Aldinéia Alves 
+
+
 **`Graduada em Engenharia de Software & Desenvolvedora Full-Stack`**
 Olá! Sou Aldinéia, graduanda em Engenharia de Software no 7º semestre com base sólida em desenvolvimento web, estruturação de APIs e automação de processos. Focado na criação de soluções eficientes, escaláveis e com padrão responsividade.
 ---

@@ -1,17 +1,19 @@
-# 👩🏻‍💻 Aldinéia Alves 
-
+# 👩🏻‍💻 Aldinéia Alves
 
 **`Graduada em Engenharia de Software & Desenvolvedora Full-Stack`**
-Olá! Sou Aldinéia, graduanda em Engenharia de Software no 7º semestre com base sólida em desenvolvimento web, estruturação de APIs e automação de processos. Focado na criação de soluções eficientes, escaláveis e com padrão responsividade.
+
+Graduanda em Engenharia de Software no 7º período com sólida base em desenvolvimento web, estruturação de APIs e automação de processos. Focada na criação de soluções eficientes, escaláveis e com alto padrão de responsividade.
+
 ---
 
-### Sobre Mim
-* 🎓 **Formação:** Graduação em Engenharia de Software e Cursando Desenvolvedora FullStack (DIO).
-* 🌐 ** Áreas de Foco** Desenvolvimento Web Front-End/Full-Stack, APIs REST, Lógica de programação e Engenharia de Software.
+### 🚀 Sobre Mim
+* 🎓 **Formação:** Graduação em Engenharia de Software (7º Período) e Cursando Desenvolvedora Fullstack (DIO).
+* 🌐 **Áreas de Foco:** Desenvolvimento Web Front-End/Full-Stack, APIs REST, Lógica de Programação e Engenharia de Software.
 * 📍 **Localização:** Manaus, AM.
+
 ---
 
-###Linguagens, Ferramentas e Tecnologias
+### 🛠️ Linguagens, Ferramentas e Tecnologias
 
 <p align="left">
   <img alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -51,3 +53,10 @@ Olá! Sou Aldinéia, graduanda em Engenharia de Software no 7º semestre com bas
 </p>
 
 <br/><br/><br/><br/><br/><br/>
+
+---
+
+### 📫 Conecte-se Comigo
+
+* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
+* ✉️ **E-mail:** aldineia.alves@email.com

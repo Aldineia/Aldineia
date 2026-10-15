@@ -1,15 +1,15 @@
-# 👩🏻‍💻 Aldinéia Monteiro Alves
+# 👩🏻‍💻 Aldinéia Alves
 
-**`Graduanda em Engenharia de Software & Desenvolvedora Web Junior`**
+**`Graduanda em Engenharia de Software & Desenvolvedora Full-Stack`**
 
-Olá! Sou Aldinéia, graduanda em Engenharia de Software no 6º período. Sou apaixonada por tecnologia, desenvolvimento web e análise de dados. Atualmente, foco meus estudos e projetos na criação de aplicações responsivas, estruturação de APIs, bancos de dados e automação de processos.
+Olá! Sou Aldinéia, graduanda em Engenharia de Software no 7º período. Sou apaixonada por tecnologia, desenvolvimento web e análise de dados. Atualmente, foco meus estudos e projetos na criação de aplicações responsivas, estruturação de APIs, bancos de dados e automação de processos.
 
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 **Formação:** Graduação em Engenharia de Software (6º Período)[cite: 1] e Cursando Desenvolvedora Fullstack (DIO).
+* 🎓 **Formação:** Graduação em Engenharia de Software (7º Período) e Cursando Desenvolvedora Fullstack (DIO).
 * 🌐 **Áreas de Foco:** Desenvolvimento Web Front-End/Full-Stack, APIs REST, Lógica de Programação e Análise de Dados.
-* 📍 **Localização:** Manaus, AM[cite: 1].
+* 📍 **Localização:** Manaus, AM.
 
 ---
 
@@ -58,7 +58,6 @@ Olá! Sou Aldinéia, graduanda em Engenharia de Software no 6º período. Sou ap
 
 ---
 
-### 📫 Conecte-se Comigo
 
-* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
-* ✉️ **E-mail:** aldineia.alves@email.com
+
+

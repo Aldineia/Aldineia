@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Aldinéia Alves
 
-**`Graduada em Engenharia de Software & Desenvolvedora Full-Stack`**
+**`Graduada em Engenharia de Software & Desenvolvedora Frontend`**
 
 Graduanda em Engenharia de Software no 7º período, natural de Manaus (AM). Possui sólida base acadêmica e técnica em desenvolvimento web, estruturação de APIs e automação de processos. Focada na criação de soluções eficientes, escaláveis e com alto padrão de responsividade.
 

@@ -89,19 +89,19 @@ Graduanda em Engenharia de Software no 7º período, natural de Manaus (AM). Pos
 
 ### 📂 Meus Principais Projetos
 
-* **[API Gerenciador Escolar](https://github.com/Aldineia/api-gerenciador-escolar)**  
+- **[API Gerenciador Escolar](https://github.com/Aldineia/api-gerenciador-escolar)**  
   *Desenvolvimento de endpoints para automação de rotinas acadêmicas e integração eficiente entre cliente e servidor.*
 
-* **[Flex Turismo](https://github.com/Aldineia/Flex_Turismo_Dio)**  
+- **[Flex Turismo](https://github.com/Aldineia/Flex_Turismo_Dio)**  
   *Plataforma web interativa voltada para o setor de turismo, desenvolvida com HTML5 e CSS3 avançado (Flexbox).*
 
-* **[E-commerce Responsivo](https://github.com/Aldineia/ecommerce_responsivo)**  
+- **[E-commerce Responsivo](https://github.com/Aldineia/ecommerce_responsivo)**  
   *Aplicação web com layouts modernos e total responsividade para múltiplos dispositivos.*
 
-* **[To-Do List Project](https://github.com/Aldineia/to-do-list-project)**  
+- **[To-Do List Project](https://github.com/Aldineia/to-do-list-project)**  
   *Aplicação web interativa focada em manipulação dinâmica de elementos via JavaScript.*
 
-* **[Instagram Login Page Clone](https://github.com/Aldineia/Instagram_Login_Page_Clone_Dio)**  
+- **[Instagram Login Page Clone](https://github.com/Aldineia/Instagram_Login_Page_Clone_Dio)**  
   *Interface moderna e responsiva simulando a página de login do Instagram utilizando HTML5 e CSS Flexbox.*
 
 ---
